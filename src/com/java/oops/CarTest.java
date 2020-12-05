@@ -9,7 +9,6 @@ public class CarTest {
 
         System.out.println(maruti800.getType());
         System.out.println(fortuner.getType());
-//        System.out.println(fortuner.col);
         customizeCar.engine();
 //        System.out.println(customizeCar.engine());
     }
